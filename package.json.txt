@@ -1,0 +1,27 @@
+{
+  "name": "monster-game",
+  "version": "1.0.0",
+  "description": "A basic monster game developed with Vue.js, JavaScript, CSS3, HTML5",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SinemSungur/monster-game.git"
+  },
+  "keywords": [
+    "css3",
+    "html5",
+    "javascript",
+    "vue.js"
+  ],
+  "author": "Sinem Sungur",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SinemSungur/monster-game.git/issues"
+  },
+  "homepage": "https://github.com/SinemSungur/monster-game.git#readme",
+  "dependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
